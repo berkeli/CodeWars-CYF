@@ -1,0 +1,16 @@
+{
+  "scripts": {
+  "test" : "jest"
+},
+  "devDependencies": {
+    "jest": "^27.4.4"
+  },
+  "jest": {
+    "projects": [
+      {
+        "displayName": "week1",
+        "testMatch": ["<rootDir>/JS1-Week1/*.js"]
+      }
+    ]
+  }
+}
