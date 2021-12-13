@@ -10,6 +10,10 @@
       {
         "displayName": "week1",
         "testMatch": ["<rootDir>/JS1-Week1/*.js"]
+      },
+      {
+        "displayName": "week2",
+        "testMatch": ["<rootDir>/JS1-Week2/*.js"]
       }
     ]
   }
