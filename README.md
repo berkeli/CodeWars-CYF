@@ -23,3 +23,15 @@ Full list of challenges: https://www.codewars.com/users/CodeYourFuture/authored_
 6. [Grasshopper - Personalized Message](https://www.codewars.com/kata/5772da22b89313a4d50012f7)
 7. [Convert boolean values to strings 'Yes' or 'No'](https://www.codewars.com/kata/53369039d7ab3ac506000467)
 
+## [Week 2](https://www.codewars.com/collections/cyf-js-1-week-2):
+1. [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)
+2. [Small enough? - Beginner](https://www.codewars.com/kata/57cc981a58da9e302a000214)
+3. [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556)
+4. [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
+5. [Do I get a bonus?](https://www.codewars.com/kata/56f6ad906b88de513f000d96)
+6. [Find Your Villain Name](https://www.codewars.com/kata/536c00e21da4dc0a0700128b)
+7. [Basic Mathematical Operations](https://www.codewars.com/kata/57356c55867b9b7a60000bd7)
+8. [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
+9. [Grasshopper - If/else syntax debug](https://www.codewars.com/kata/57089707fe2d01529f00024a)
+10. [Thinkful - String Drills: Repeater](https://www.codewars.com/kata/585a1a227cb58d8d740001c3)
+
