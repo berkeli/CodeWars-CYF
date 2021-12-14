@@ -11,13 +11,12 @@ summation(8) -> 36
 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8
 */
 
-const summation = n => n * (n + 1) / 2
+const summation = (n) => (n * (n + 1)) / 2;
 
-
-// TESTS - run the following command to test this file: 
+// TESTS - run the following command to test this file:
 // npm run test -- JS1-Week2/Grasshopper_Summation.js
 
-test('Grasshopper - Summation', () => {  
-    expect(summation(1)).toBe(1);
-    expect(summation(8)).toBe(36);
-})
+test('Grasshopper - Summation', () => {
+  expect(summation(1)).toBe(1);
+  expect(summation(8)).toBe(36);
+});

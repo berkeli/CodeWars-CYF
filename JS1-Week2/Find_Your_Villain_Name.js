@@ -35,19 +35,18 @@ The returned value should be a string in the form of "First Name Last Name".
 For example, a birthday of November 18 would return "The Terrifying Teaspoon"
 */
 
-const getVillainName = birthday => {
-    const m = ["Evil","Vile","Cruel","Trashy","Despicable","Embarrassing","Disreputable","Atrocious","Twirling","Orange","Terrifying","Awkward"];
-    const d = ["Mustache","Pickle","Hood Ornament","Raisin","Recycling Bin","Potato","Tomato","House Cat","Teaspoon","Laundry Basket"]; 
-    day = birthday.getDate();
-    return `The ${m[birthday.getMonth()]} ${d[ day > 9 ? day % 10 : day]}`
-}
+const getVillainName = (birthday) => {
+  const m = ['Evil', 'Vile', 'Cruel', 'Trashy', 'Despicable', 'Embarrassing', 'Disreputable', 'Atrocious', 'Twirling', 'Orange', 'Terrifying', 'Awkward'];
+  const d = ['Mustache', 'Pickle', 'Hood Ornament', 'Raisin', 'Recycling Bin', 'Potato', 'Tomato', 'House Cat', 'Teaspoon', 'Laundry Basket'];
+  const day = birthday.getDate();
+  return `The ${m[birthday.getMonth()]} ${d[day > 9 ? day % 10 : day]}`;
+};
 
-// TESTS - run the following command to test this file: 
+// TESTS - run the following command to test this file:
 // npm run test -- JS1-Week2/Find_Your_Villain_Name.js
 
-test('Find Your Villain Name', () => {  
-    expect(getVillainName(new Date("May 3"))).toBe("The Despicable Raisin");
-    expect(getVillainName(new Date("April 21"))).toBe("The Trashy Pickle");
-    expect(getVillainName(new Date("December 17"))).toBe("The Awkward House Cat");
-})
-
+test('Find Your Villain Name', () => {
+  expect(getVillainName(new Date('May 3'))).toBe('The Despicable Raisin');
+  expect(getVillainName(new Date('April 21'))).toBe('The Trashy Pickle');
+  expect(getVillainName(new Date('December 17'))).toBe('The Awkward House Cat');
+});

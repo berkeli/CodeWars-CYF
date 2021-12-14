@@ -7,14 +7,14 @@ checkAlive/CheckAlive/check_alive should return true if the player's health is g
 The function receives one parameter health which will always be a whole number between -10 and 10.
 */
 
-const checkAlive = health => health > 0
+const checkAlive = (health) => health > 0;
 
-// TESTS - run the following command to test this file: 
+// TESTS - run the following command to test this file:
 // npm run test -- JS1-Week2/Grasshopper_If_else_syntax_debug.js
 
-test('If/else syntax debug', () => {  
-    expect(checkAlive(5)).toBe(true);
-    expect(checkAlive(0)).toBe(false);
-    expect(checkAlive(-2)).toBe(false);
-    expect(checkAlive(0.5)).toBe(true);
-})
+test('If/else syntax debug', () => {
+  expect(checkAlive(5)).toBe(true);
+  expect(checkAlive(0)).toBe(false);
+  expect(checkAlive(-2)).toBe(false);
+  expect(checkAlive(0.5)).toBe(true);
+});

@@ -12,24 +12,24 @@ Examples(Operator, value1, value2) --> output
 */
 
 const basicOp = (operation, value1, value2) => {
-    switch (operation) {
-        case "+":
-            return value1 + value2;
-        case "-": 
-            return value1 - value2;
-        case "*":
-            return value1 * value2;
-        default:
-            return value1 / value2
-    }
-}
+  switch (operation) {
+    case '+':
+      return value1 + value2;
+    case '-':
+      return value1 - value2;
+    case '*':
+      return value1 * value2;
+    default:
+      return value1 / value2;
+  }
+};
 
-// TESTS - run the following command to test this file: 
+// TESTS - run the following command to test this file:
 // npm run test -- JS1-Week2/Basic_Mathematical_Operations.js
 
-test('Basic Mathematical Operations', () => {  
-    expect(basicOp('+', 4, 7)).toBe(11);
-    expect(basicOp('-', 15, 18)).toBe(-3);
-    expect(basicOp('*', 5, 5)).toBe(25);
-    expect(basicOp('/', 49, 7)).toBe(7);
-})
+test('Basic Mathematical Operations', () => {
+  expect(basicOp('+', 4, 7)).toBe(11);
+  expect(basicOp('-', 15, 18)).toBe(-3);
+  expect(basicOp('*', 5, 5)).toBe(25);
+  expect(basicOp('/', 49, 7)).toBe(7);
+});

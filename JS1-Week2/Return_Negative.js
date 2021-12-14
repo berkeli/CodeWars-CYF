@@ -11,14 +11,14 @@ The number can be negative already, in which case no change is required.
 Zero (0) is not checked for any specific sign. Negative zeros make no mathematical sense.
 */
 
-const makeNegative = num => num > 0 ? -num : num
+const makeNegative = (num) => (num > 0 ? -num : num);
 
-// TESTS - run the following command to test this file: 
+// TESTS - run the following command to test this file:
 // npm run test -- JS1-Week2/Return_Negative.js
 
-test('Return Negative', () => {  
-    expect(makeNegative(3)).toBe(-3);
-    expect(makeNegative(-3)).toBe(-3);
-    expect(makeNegative(0)).toBe(0);
-    expect(makeNegative(0.12)).toBe(-0.12);
-})
+test('Return Negative', () => {
+  expect(makeNegative(3)).toBe(-3);
+  expect(makeNegative(-3)).toBe(-3);
+  expect(makeNegative(0)).toBe(0);
+  expect(makeNegative(0.12)).toBe(-0.12);
+});
