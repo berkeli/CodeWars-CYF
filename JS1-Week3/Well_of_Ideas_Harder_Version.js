@@ -13,7 +13,6 @@ function well(x) {
   let good = 0;
   for (let i = 0; i < x.length; i++) {
     for (let j = 0; j < x[i].length; j++) {
-      console.log(x[i][j]);
       if (typeof x[i][j] === 'string' && x[i][j].toLowerCase() === 'good') {
         good += 1;
         if (good > 2) return 'I smell a series!';
