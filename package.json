@@ -1,19 +1,33 @@
 {
   "scripts": {
-  "test" : "jest"
-},
+    "test": "jest"
+  },
   "devDependencies": {
+    "eslint": "^8.4.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jest": "^25.3.0",
     "jest": "^27.4.4"
   },
   "jest": {
     "projects": [
       {
         "displayName": "week1",
-        "testMatch": ["<rootDir>/JS1-Week1/*.js"]
+        "testMatch": [
+          "<rootDir>/JS1-Week1/*.js"
+        ]
       },
       {
         "displayName": "week2",
-        "testMatch": ["<rootDir>/JS1-Week2/*.js"]
+        "testMatch": [
+          "<rootDir>/JS1-Week2/*.js"
+        ]
+      },
+      {
+        "displayName": "week3",
+        "testMatch": [
+          "<rootDir>/JS1-Week3/*.js"
+        ]
       }
     ]
   }

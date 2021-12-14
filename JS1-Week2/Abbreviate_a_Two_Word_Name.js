@@ -10,8 +10,7 @@ Sam Harris => S.H
 patrick feeney => P.F
 */
 
-const abbrevName = name => `${name[0].toUpperCase()}.${name[name.indexOf(" ")+1].toUpperCase()}`
-
+const abbrevName = name => `${name[0].toUpperCase()}.${name[name.indexOf(' ') + 1].toUpperCase()}`;
 // TESTS - run the following command to test this file: 
 // npm run test -- JS1-Week2/Abbreviate_a_Two_Word_Name.js
 

@@ -5,7 +5,7 @@ Example: (Input1, Input2 --> Output)
 "a", 5 --> "aaaaa"
 */
 
-const repeater = (string, n) => string.repeat(n) 
+const repeater = (string, n) => string.repeat(n) ;
 
 // TESTS - run the following command to test this file: 
 // npm run test -- JS1-Week2/Thinkful_String_Drills_Repeater.js
