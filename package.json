@@ -28,6 +28,12 @@
         "testMatch": [
           "<rootDir>/JS1-Week3/*.js"
         ]
+      },
+      {
+        "displayName": "JS2-Week1",
+        "testMatch": [
+          "<rootDir>/JS2-Week1/*.js"
+        ]
       }
     ]
   }
