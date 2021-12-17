@@ -12,19 +12,19 @@
   "jest": {
     "projects": [
       {
-        "displayName": "week1",
+        "displayName": "JS1-Week1",
         "testMatch": [
           "<rootDir>/JS1-Week1/*.js"
         ]
       },
       {
-        "displayName": "week2",
+        "displayName": "JS1-Week2",
         "testMatch": [
           "<rootDir>/JS1-Week2/*.js"
         ]
       },
       {
-        "displayName": "week3",
+        "displayName": "JS1-Week3",
         "testMatch": [
           "<rootDir>/JS1-Week3/*.js"
         ]
