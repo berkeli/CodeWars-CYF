@@ -14,7 +14,8 @@ Full list of challenges: https://www.codewars.com/users/CodeYourFuture/authored_
 
 # Challenges in this repo
 
-## [JS1 Week 1](https://www.codewars.com/collections/cyf-js-1-week-1):  <code> npm run test -- JS1-Week1</code>
+## [JS1 Week 1](https://www.codewars.com/collections/cyf-js-1-week-1): 
+<code> npm run test -- JS1-Week1</code> 
 1. [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
 2. [Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095)
 3. [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
@@ -23,7 +24,8 @@ Full list of challenges: https://www.codewars.com/users/CodeYourFuture/authored_
 6. [Grasshopper - Personalized Message](https://www.codewars.com/kata/5772da22b89313a4d50012f7)
 7. [Convert boolean values to strings 'Yes' or 'No'](https://www.codewars.com/kata/53369039d7ab3ac506000467)
 
-## [JS1 Week 2](https://www.codewars.com/collections/cyf-js-1-week-2): <code> npm run test -- JS1-Week2</code>
+## [JS1 Week 2](https://www.codewars.com/collections/cyf-js-1-week-2): 
+<code> npm run test -- JS1-Week2</code>
 1. [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)
 2. [Small enough? - Beginner](https://www.codewars.com/kata/57cc981a58da9e302a000214)
 3. [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556)
@@ -35,6 +37,8 @@ Full list of challenges: https://www.codewars.com/users/CodeYourFuture/authored_
 9. [Grasshopper - If/else syntax debug](https://www.codewars.com/kata/57089707fe2d01529f00024a)
 10. [Thinkful - String Drills: Repeater](https://www.codewars.com/kata/585a1a227cb58d8d740001c3)
 
-## [JS1 Week 3](https://www.codewars.com/collections/cyf-js-1-week-3): <code> npm run test -- JS1-Week3</code>
+## [JS1 Week 3](https://www.codewars.com/collections/cyf-js-1-week-3): 
+<code> npm run test -- JS1-Week3</code>
 
-## [JS2 Week 1](https://www.codewars.com/collections/cyf-js-2-week-1): <code> npm run test -- JS2-Week1</code>
+## [JS2 Week 1](https://www.codewars.com/collections/cyf-js-2-week-1): 
+<code> npm run test -- JS2-Week1</code>
