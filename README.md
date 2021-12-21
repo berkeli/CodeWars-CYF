@@ -45,3 +45,6 @@ Full list of challenges: https://www.codewars.com/users/CodeYourFuture/authored_
 
 ## [JS2 Week 2](https://www.codewars.com/collections/cyf-js-2-week-2): 
 <code> npm run test -- JS2-Week2</code>
+
+## [JS2 Week 3](https://www.codewars.com/collections/cyf-js-2-week-3): 
+<code> npm run test -- JS2-Week3</code>
