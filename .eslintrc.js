@@ -15,6 +15,7 @@ module.exports = {
     'max-len': 0,
     quotes: ['error', 'single', { avoidEscape: true }],
     'no-console': 'off',
+    'no-plusplus': 'off',
   },
   plugins: ['jest'],
 };

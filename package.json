@@ -46,6 +46,12 @@
         "testMatch": [
           "<rootDir>/JS2-Week3/*.js"
         ]
+      },
+      {
+        "displayName": "CYF-Fundamentals",
+        "testMatch": [
+          "<rootDir>/CYF-Fundamentals/*.js"
+        ]
       }
     ]
   }
