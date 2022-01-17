@@ -45,7 +45,7 @@ const list2 = [
 ];
 
 // TESTS - run the following command to test this file:
-// npm run test -- CYF-Array-and-Object-methods/CM_3_ Is_Ruby_coming.js
+// npm run test -- CYF-Array-and-Object-methods/CM_3_Is_Ruby_coming.js
 
 test('Coding Meetup #3 - Higher-Order Functions Series - Is Ruby coming?', () => {
   expect(isRubyComing(list1)).toBe(true);
