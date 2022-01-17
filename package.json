@@ -52,6 +52,12 @@
         "testMatch": [
           "<rootDir>/CYF-Fundamentals/*.js"
         ]
+      },
+      {
+        "displayName": "CYF Array and Object methods",
+        "testMatch": [
+          "<rootDir>/CYF-Array-and-Object-methods/*.js"
+        ]
       }
     ]
   }
