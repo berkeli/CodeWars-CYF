@@ -58,6 +58,12 @@
         "testMatch": [
           "<rootDir>/CYF-Array-and-Object-methods/*.js"
         ]
+      },
+      {
+        "displayName": "CYF Catch Up Kata",
+        "testMatch": [
+          "<rootDir>/CYF-Catch-Up-Kata/*.js"
+        ]
       }
     ]
   }

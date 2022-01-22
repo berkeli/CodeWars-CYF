@@ -4,7 +4,7 @@
 const even_or_odd = (number) => (number % 2 ? 'Odd' : 'Even');
 
 // TESTS - run the following command to test this file:
-// npm run test -- JS1-Week1/Even_or_Odd.js
+// npm run test -- CYF-Catch-Up-Kata/Even_or_Odd.js
 
 test('Even or Odd: 2 must be even', () => {
   expect(even_or_odd(2)).toBe('Even');
