@@ -64,6 +64,12 @@
         "testMatch": [
           "<rootDir>/CYF-Catch-Up-Kata/*.js"
         ]
+      },
+      {
+        "displayName": "CYF Handling Falsy",
+        "testMatch": [
+          "<rootDir>/CYF-Handling-Falsy/*.js"
+        ]
       }
     ]
   }
