@@ -66,9 +66,9 @@
         ]
       },
       {
-        "displayName": "CYF Handling Falsy",
+        "displayName": "CYF React",
         "testMatch": [
-          "<rootDir>/CYF-Handling-Falsy/*.js"
+          "<rootDir>/CYF-React/*.js"
         ]
       }
     ]
