@@ -29,3 +29,10 @@ const solution = async () => {
     console.log(`Connected to Server! ${process.env.HOST}/:${process.env.PORT}`);
   });
 };
+
+// TESTS - run the following command to test this file:
+// npm run test -- CYF-Node/Configure_an_express_server.js
+
+test('Configure an express server', () => {
+  expect('test').toBe('test');
+});
