@@ -78,6 +78,12 @@
         "testMatch": [
           "<rootDir>/CYF-Node/*.js"
         ]
+      },
+      {
+        "displayName": "JS3-Week1",
+        "testMatch": [
+          "<rootDir>/JS3-Week1/*.js"
+        ]
       }
     ]
   },
