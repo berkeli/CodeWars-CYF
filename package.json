@@ -90,6 +90,12 @@
         "testMatch": [
           "<rootDir>/JS3-Week2/*.js"
         ]
+      },
+      {
+        "displayName": "JS3-Week3",
+        "testMatch": [
+          "<rootDir>/JS3-Week3/*.js"
+        ]
       }
     ]
   },
